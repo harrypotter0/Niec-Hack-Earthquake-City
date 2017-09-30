@@ -9,12 +9,6 @@ A very basic Unfolding demo you'll find in the source folder in the default pack
 For more examples visit http://unfoldingmaps.org, or download the template with
 examples.
 
-The module folders contain the starter code for the programming assignments
-associated with the MOOC.
-
-Get excited and make things!
-
-
 # INSTALLATION
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
@@ -35,6 +29,9 @@ If the import does not work follow the steps below.
 # TROUBLE SHOOTING
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
+
+# Screenshots ::
+
 
 
 

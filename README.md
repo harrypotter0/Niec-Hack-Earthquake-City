@@ -42,14 +42,8 @@ Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with
 
 GIFS ::
 
-![](https://drive.google.com/open?id=0BzCSJC_rm2ElSGlfYy1hTVpYMVU)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
-![Screenshot 1](akash.gif?raw=true "Optional Title 1")
-
-![alt text](https://github.com/harrypotter0/EarthquakeCity/blob/master/akash1.gif "Logo Title Text 1")
+![GIf hai boss](https://github.com/harrypotter0/EarthquakeCity/blob/master/akash1.gif "Logo Title Text 1")
 
 
 

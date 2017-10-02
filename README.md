@@ -32,6 +32,20 @@ Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with
 
 # Screenshots ::
 
+![Screenshot 1](pic1.png?raw=true "Optional Title 1")
+
+
+![Screenshot 1](pic2.png?raw=true "Optional Title 1")
+
+
+![Screenshot 1](pic3.png?raw=true "Optional Title 1")
+
+GIFS ::
+
+![](https://drive.google.com/open?id=0BzCSJC_rm2ElSGlfYy1hTVpYMVU)
+
+
+
 
 
 

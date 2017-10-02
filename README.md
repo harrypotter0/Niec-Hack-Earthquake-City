@@ -1,11 +1,19 @@
 # EarthquakeCity
-It is my work towards making an application in Java on showing all Earthquake sesimic zones in the world with real life live data on the World Map which is dynamic one :)
+1. It is my work towards making an application in Java on showing all Earthquake sesimic zones in the world with real life live data on the World Map which is dynamic one .
+2. Information about real-time earthquakes, online catalog search of archives, seismicity maps and statistics. 
+3. 
+
 
 # References used :
-1. Parsing done from here (https://earthquake.usgs.gov/earthquakes/map/)
+1. Parsing done from here (https://earthquake.usgs.gov/earthquakes/map/) and here(https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.atom)
+
 2. External libraries used (http://unfoldingmaps.org/javadoc/)
+
 3. For graphics (https://www.processing.org/reference/)
+
 4. For more details (https://earthquake.usgs.gov/research/)
+
+
 unfolding_app_template
 ==================================================================
 

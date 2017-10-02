@@ -49,6 +49,8 @@ GIFS ::
 
 ![Screenshot 1](akash.gif?raw=true "Optional Title 1")
 
+![alt text](https://github.com/harrypotter0/EarthquakeCity/blob/master/akash1.gif "Logo Title Text 1")
+
 
 
 

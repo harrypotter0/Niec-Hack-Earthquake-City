@@ -35,7 +35,8 @@ Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with
 ![Screenshot 1](pic1.png?raw=true "Optional Title 1")
 
 
-![Screenshot 1](pic2.png?raw=true "Optional Title 1")
+![Screenshot 1](record-2017-10-02_06_45_19.gif
+?raw=true "Optional Title 1")
 
 
 ![Screenshot 1](pic3.png?raw=true "Optional Title 1")

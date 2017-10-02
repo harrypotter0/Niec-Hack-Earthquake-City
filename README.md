@@ -44,8 +44,10 @@ GIFS ::
 
 ![](https://drive.google.com/open?id=0BzCSJC_rm2ElSGlfYy1hTVpYMVU)
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
+![Screenshot 1](pic4.png?raw=true "Optional Title 1")
 
 
 
